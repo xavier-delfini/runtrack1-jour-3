@@ -1,0 +1,19 @@
+#membres {
+    display: flex;
+    justify-content:space-evenly;
+
+}
+img {
+    border-radius: 150px;
+}
+a:hover {
+    background-color: gold;
+      }
+
+* {
+    font-family: sans-serif;
+}
+
+Body{
+    background: linear-gradient(rgb(230, 223, 223),#c2b6bc)
+}

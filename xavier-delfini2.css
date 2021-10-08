@@ -1,0 +1,53 @@
+a:hover {
+    background-color: gold;
+      }
+
+      #présen {
+        margin:  auto;
+        width: 100%;
+    }
+
+    img {
+        border-radius: 50px;
+        
+        display: block;
+    }
+    h1 {
+        text-align: center;
+        }
+        * {
+            text-shadow: rgb(46, 45, 45) 3px 2px 2px;
+             font-family :fantasy;
+         }
+    .list li {
+         list-style-type: circle;
+        }
+        Body {
+            width: 600px;
+            margin: 0 auto;
+            padding: 0 20px 20px 20px;
+            background: linear-gradient(rgb(88, 85, 85),#797577)
+        }
+
+
+        #Centre {
+            margin:  auto ;
+            width: 80%;
+        }
+        
+        .links {
+            margin:  auto ;
+            width: 49%;
+        }
+        #Contain{
+            align-items: flex-start;
+            display: flex;
+            justify-content:space-evenly;
+            flex-direction: row;
+            flex:auto;
+        }
+        
+        .name {
+            margin:  auto ;
+            width: 25%;
+        }

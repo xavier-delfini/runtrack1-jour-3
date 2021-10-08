@@ -1,0 +1,24 @@
+a:hover {
+    background-color: gold;
+      }
+
+      #membres {
+        display: flex;
+        justify-content:space-evenly;
+        flex-direction: column;
+    
+    }
+    img {
+        border-radius: 150px;
+    }
+h1{
+    font-family: initial;
+}
+    * {
+        font-family:monospace
+    }
+    
+    Body{
+        background: linear-gradient(rgb(230, 223, 223),#c2b6bc);
+
+    }
